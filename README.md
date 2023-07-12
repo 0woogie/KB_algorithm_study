@@ -29,11 +29,11 @@
 	    <br />
 	</td>
         <td align="center">
-	    <a href="https://github.com/zzckckck3">
-	    	<img src="https://avatars.githubusercontent.com/u/65270703?v=4?s=100" width="100px;" alt=""/>
+	    <a href="https://github.com/2ools">
+	    	<img src="https://avatars.githubusercontent.com/u/90839206?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>이재진</b>
+	    	<b>이주원</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
