@@ -64,30 +64,6 @@
 	    </a>
 	    <br />
 	</td>
-        <td align="center">
-	    <a href="https://github.com/longBright">
-	    	<img src="https://avatars.githubusercontent.com/u/74171272?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>최영환</b>
-	    	<br/>
-	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-	        </sub>
-	    </a>
-	    <br />
-	</td>
-        <td align="center">
-	    <a href="https://github.com/jinsikhong">
-	    	<img src="https://avatars.githubusercontent.com/u/28581484?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>홍진식</b>
-	    	<br/>
-	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-	        </sub>
-	    </a>
-	    <br />
-	</td>
     </tr>
 </table>
 
