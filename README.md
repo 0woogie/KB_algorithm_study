@@ -29,7 +29,7 @@
 	    <br />
 	</td>
         <td align="center">
-	    <a href="https://github.com/2ools">
+	    <a href="https://github.com/2oo1s">
 	    	<img src="https://avatars.githubusercontent.com/u/90839206?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
