@@ -18,10 +18,10 @@
 	</td>
         <td align="center">
 	    <a href="https://github.com/youbeen2798">
-	    	<img src="https://avatars.githubusercontent.com/u/62228401?v=4?s=100" width="100px;" alt=""/>
+	    	<img src="https://avatars.githubusercontent.com/u/111121447?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>정유빈</b>
+	    	<b>강유석</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
