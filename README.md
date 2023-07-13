@@ -52,6 +52,18 @@
 	    </a>
 	    <br />
 	</td>
+	<td align="center">
+	    <a href="https://github.com/Austin-Choi">
+	    	<img src="https://avatars.githubusercontent.com/u/33799946?v=4?s=100" width="100px;" alt=""/>
+	    	<br/>
+	    	<sub>
+	    	<b>최윤서</b>
+	    	<br/>
+	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
+	        </sub>
+	    </a>
+	    <br />
+	</td>
     </tr>
 </table>
 
