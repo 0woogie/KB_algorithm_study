@@ -9,7 +9,7 @@
 	    	<img src="https://avatars.githubusercontent.com/u/80441481?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>맹영욱</b>
+	    	<b>맹</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
