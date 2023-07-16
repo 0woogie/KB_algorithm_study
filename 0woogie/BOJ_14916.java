@@ -2,7 +2,7 @@ package study;
 
 import java.util.Scanner;
 
-public class B14916 {
+public class BOJ_14916 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
