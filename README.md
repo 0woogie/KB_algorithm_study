@@ -132,6 +132,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.07.17 문제 -->
     <tr style="text-align: center">
+	<td rowspan="3">2주차</td>
         <td>BOJ</td><td>1414</td><td>불우이웃돕기</td><td>골드3</td>
         <td><a href="https://www.acmicpc.net/problem/1414">바로가기</a></td>
     </tr>
