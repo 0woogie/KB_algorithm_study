@@ -9,7 +9,7 @@
 	    	<img src="https://avatars.githubusercontent.com/u/80441481?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>맹</b>
+	    	<b>맹영욱</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -111,11 +111,17 @@ git commit -m "Hello World / 1분"
 
 # ✅ 문제
 <table>
+    <!-- 23.07.10 문제 -->
     <tr style="text-align: center">
+        <td rowspan="3">1주차</td>
+        <td>SWEA</td><td>5215</td><td>햄버거 다이어트</td><td>D3</td>
+        <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=%ED%96%84%EB%B2%84%EA%B1%B0&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">바로가기</a></td>
+    </tr>
+<!--     <tr style="text-align: center">
         <td rowspan="3">1주차</td>
         <td>BOJ</td><td>13460</td><td>구슬 탈출 2</td><td>골드1</td>
         <td><a href="https://www.acmicpc.net/problem/13460">바로가기</a></td>
-    </tr>
+    </tr> -->
     <tr style="text-align: center">
         <td>BOJ</td><td>1343</td><td>폴리오미노</td><td>실버5</td>
         <td><a href="https://www.acmicpc.net/problem/1343">바로가기</a></td>
@@ -124,5 +130,18 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>14916</td><td>거스름돈</td><td>실버5</td>
         <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
     </tr>
-    <!-- 23.07.12 문제 -->
+    <!-- 23.07.17 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">2주차</td>
+        <td>BOJ</td><td>1414</td><td>불우이웃돕기</td><td>골드3</td>
+        <td><a href="https://www.acmicpc.net/problem/1414">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2828</td><td>사과 담기 게임</td><td>실버5</td>
+        <td><a href="https://www.acmicpc.net/problem/2828">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2217</td><td>로프</td><td>실버4</td>
+        <td><a href="https://www.acmicpc.net/problem/2217">바로가기</a></td>
+    </tr>
 </table>
