@@ -111,6 +111,7 @@ git commit -m "Hello World / 1분"
 
 # ✅ 문제
 <table>
+    <!-- 23.07.10 문제 -->
     <tr style="text-align: center">
         <td rowspan="3">1주차</td>
         <td>SWEA</td><td>5215</td><td>햄버거 다이어트</td><td>D3</td>
@@ -129,5 +130,18 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>14916</td><td>거스름돈</td><td>실버5</td>
         <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
     </tr>
-    <!-- 23.07.12 문제 -->
+    <!-- 23.07.17 문제 -->
+    <tr style="text-align: center">
+	<td rowspan="3">2주차</td>
+        <td>BOJ</td><td>1414</td><td>불우이웃돕기</td><td>골드3</td>
+        <td><a href="https://www.acmicpc.net/problem/1414">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2828</td><td>사과 담기 게임</td><td>실버5</td>
+        <td><a href="https://www.acmicpc.net/problem/2828">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2217</td><td>로프</td><td>실버4</td>
+        <td><a href="https://www.acmicpc.net/problem/2217">바로가기</a></td>
+    </tr>
 </table>
