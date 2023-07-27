@@ -151,7 +151,7 @@ git commit -m "Hello World / 1분"
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>PRG</td><td>없음</td><td>같은 숫자는 싫어</td><td>Level 1</td>
+        <td>PRG</td><td>없음</td><td>같은 숫자는 싫어</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
