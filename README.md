@@ -181,16 +181,16 @@ git commit -m "Hello World / 1분"
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>가장 큰 수</td><td>Level 1</td>
+        <td>PGS</td><td>없음</td><td>가장 큰 수</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>모의고사</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
         <td>PGS</td><td>없음</td><td>게임 맵 최단거리</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java">바로가기</a></td>
-    </tr>
-     <tr style="text-align: center">
-        <td>PGS</td><td>없음</td><td>전화번호 목록</td><td>Level 1</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java">바로가기</a></td>
     </tr>
     
 
