@@ -174,7 +174,25 @@ git commit -m "Hello World / 1분"
         <td>PGS</td><td>없음</td><td>타겟 넘버</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">바로가기</a></td>
     </tr>
-
+     <!-- 23.08.02 문제 -->	
+    <tr style="text-align: center">
+	<td rowspan="7">4주차</td>
+        <td>PGS</td><td>없음</td><td>완주하지 못한 선수</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>가장 큰 수</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>모의고사</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>게임 맵 최단거리</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java">바로가기</a></td>
+    </tr>
+    
 
 
  
