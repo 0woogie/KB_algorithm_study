@@ -144,4 +144,56 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>2217</td><td>로프</td><td>실버4</td>
         <td><a href="https://www.acmicpc.net/problem/2217">바로가기</a></td>
     </tr>
+    <!-- 23.07.27 문제 -->	
+    <tr style="text-align: center">
+	<td rowspan="7">3주차</td>
+        <td>PGS</td><td>없음</td><td>폰켓몬</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>같은 숫자는 싫어</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>더 맵게</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">바로가기</a></td>
+    </tr>
+     <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>K번째수</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>최소직사각형</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>체육복</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>타겟 넘버</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">바로가기</a></td>
+    </tr>
+     <!-- 23.08.02 문제 -->	
+    <tr style="text-align: center">
+	<td rowspan="7">4주차</td>
+        <td>PGS</td><td>없음</td><td>완주하지 못한 선수</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>가장 큰 수</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>모의고사</td><td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>게임 맵 최단거리</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java">바로가기</a></td>
+    </tr>
+    
+
+
+ 
 </table>
