@@ -176,7 +176,7 @@ git commit -m "Hello World / 1분"
     </tr>
      <!-- 23.08.02 문제 -->	
     <tr style="text-align: center">
-	<td rowspan="7">4주차</td>
+	<td rowspan="4">4주차</td>
         <td>PGS</td><td>없음</td><td>완주하지 못한 선수</td><td>Level 1</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java">바로가기</a></td>
     </tr>
@@ -192,8 +192,23 @@ git commit -m "Hello World / 1분"
         <td>PGS</td><td>없음</td><td>게임 맵 최단거리</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java">바로가기</a></td>
     </tr>
-    
-
-
- 
+    <!-- 23.08.07 문제 -->	
+    <tr style="text-align: center">
+	<td rowspan="4">5주차</td>
+        <td>PGS</td><td>없음</td><td>전화번호 목록</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>H-Index</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>소수찾기</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1697</td><td>숨바꼭질</td><td>실버 1</td>
+        <td><a href="https://www.acmicpc.net/problem/1697">바로가기</a></td>
+    </tr>
+	
 </table>
