@@ -210,5 +210,18 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>1697</td><td>숨바꼭질</td><td>실버 1</td>
         <td><a href="https://www.acmicpc.net/problem/1697">바로가기</a></td>
     </tr>
-	
+    <!-- 23.08.16 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="3">6주차</td>
+        <td>PGS</td><td>없음</td><td>기능개발</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>카펫</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>없음</td><td>조이스틱</td><td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java">바로가기</a></td>
+    </tr>
 </table>
