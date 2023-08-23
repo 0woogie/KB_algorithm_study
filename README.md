@@ -232,7 +232,7 @@ git commit -m "Hello World / 1분"
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>PGS</td><td>3190</td><td>뱀</td><td>골드 4</td>
+        <td>BOJ</td><td>3190</td><td>뱀</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
     </tr>
 </table>
