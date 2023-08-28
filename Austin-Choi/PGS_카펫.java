@@ -3,7 +3,6 @@ import java.util.*;
 
 class Solution {
     public double[] solution(int b, int y) {
-        double[] answer = new double[2];
         //row, col은 yellow의 row, col
         //row * col == y && row + col == (b-4)/2;
         //row = (b-4)/2 - col로 표현
@@ -19,20 +18,10 @@ class Solution {
         //+ 근의공식 구현
         //col^2 - ((b-4)/2) * col + y = 0;
         //a = 1, b= -1 * ((b-4)/2), c = y;
-        double row = 0;
-        double col = 0;
-        double x1 = (((b-4)/2) + (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2;
-        double x2 = (((b-4)/2) - (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2;
-        System.out.println("x1 : "+x1+" x2 : "+x2);
-        if(x1>=x2){
-            answer[0] = x1 + 2;
-            answer[1] = x2 + 2;
-        }
-        else{
-            answer[0] = x1 + 2;
-            answer[1] = x2 + 2;
-        }
         
+        double[] answer = new double[2];
+        answer[0] = Math.max((((b-4)/2) + (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2, (((b-4)/2) - (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2)+2;
+        answer[1] = Math.min((((b-4)/2) + (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2, (((b-4)/2) - (Math.sqrt(Math.pow(((b-4)/2),2)-(4*1*y))))/2)+2;
         return answer;
     }
 }
