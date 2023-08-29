@@ -235,4 +235,15 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>3190</td><td>뱀</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
     </tr>
+	<!-- 23.08.30 문제 -->
+    <tr style="text-align: center">
+	    <tr style="text-align: center">
+        <td rowspan="3">8주차</td>
+        <td>????</td><td>없음</td><td>??????</td><td>?</td>
+        <td><a href="#">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1699</td><td>제곱수의 합</td><td>실버 2</td>
+        <td><a href="https://www.acmicpc.net/problem/1699">바로가기</a></td>
+    </tr>
 </table>
