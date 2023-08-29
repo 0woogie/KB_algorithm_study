@@ -117,11 +117,6 @@ git commit -m "Hello World / 1분"
         <td>SWEA</td><td>5215</td><td>햄버거 다이어트</td><td>D3</td>
         <td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=%ED%96%84%EB%B2%84%EA%B1%B0&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">바로가기</a></td>
     </tr>
-<!--     <tr style="text-align: center">
-        <td rowspan="3">1주차</td>
-        <td>BOJ</td><td>13460</td><td>구슬 탈출 2</td><td>골드1</td>
-        <td><a href="https://www.acmicpc.net/problem/13460">바로가기</a></td>
-    </tr> -->
     <tr style="text-align: center">
         <td>BOJ</td><td>1343</td><td>폴리오미노</td><td>실버5</td>
         <td><a href="https://www.acmicpc.net/problem/1343">바로가기</a></td>
@@ -234,14 +229,12 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>3190</td><td>뱀</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
     </tr>
-	<!-- 23.08.30 문제 -->
+	 <!-- 23.08.30 문제 -->
     <tr style="text-align: center">
-        <td rowspan="3">8주차</td>
-        <td>????</td><td>없음</td><td>??????</td><td>?</td>
-        <td><a href="#">바로가기</a></td>
+	<td rowspan="3">8주차</td>
+        <td>BOJ</td><td>2133</td><td>타일 채우기</td><td>골드 4</td>
+        <td><a href="https://www.acmicpc.net/problem/2133">바로가기</a></td>
     </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>1699</td><td>제곱수의 합</td><td>실버 2</td>
-        <td><a href="https://www.acmicpc.net/problem/1699">바로가기</a></td>
-    </tr>
+
+
 </table>
