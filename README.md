@@ -226,7 +226,6 @@ git commit -m "Hello World / 1분"
     </tr>
 	<!-- 23.08.24 문제 -->
     <tr style="text-align: center">
-	    <tr style="text-align: center">
         <td rowspan="3">7주차</td>
         <td>PGS</td><td>없음</td><td>베스트앨범</td><td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java">바로가기</a></td>
@@ -237,7 +236,6 @@ git commit -m "Hello World / 1분"
     </tr>
 	<!-- 23.08.30 문제 -->
     <tr style="text-align: center">
-	    <tr style="text-align: center">
         <td rowspan="3">8주차</td>
         <td>????</td><td>없음</td><td>??????</td><td>?</td>
         <td><a href="#">바로가기</a></td>
