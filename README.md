@@ -231,14 +231,17 @@ git commit -m "Hello World / 1분"
     </tr>
 	 <!-- 23.08.30 문제 -->
     <tr style="text-align: center">
-	<td rowspan="2">8주차</td>
+	<td >8주차</td>
         <td>BOJ</td><td>2133</td><td>타일 채우기</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/2133">바로가기</a></td>
     </tr>
 	<!-- 23.09.26 문제 -->
     <tr style="text-align: center">
-        <td rowspan="2">9주차</td>
-        <td>BOJ</td><td>21610</td><td>마법사 상어와 비바라기</td><td>골드 5</td>
+        <td>9주차</td>
+        <td>BOJ</td>
+	    <td>21610</td>
+	    <td>마법사 상어와 비바라기</td>
+	    <td>골드 5</td>
         <td><a href="https://www.acmicpc.net/problem/21610">바로가기</a></td>
     </tr>
 
