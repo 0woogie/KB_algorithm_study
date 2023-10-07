@@ -219,22 +219,31 @@ git commit -m "Hello World / 1분"
         <td>PGS</td><td>없음</td><td>조이스틱</td><td>Level 2</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=java">바로가기</a></td>
     </tr>
+	
 	<!-- 23.08.24 문제 -->
     <tr style="text-align: center">
         <td rowspan="2">7주차</td>
-        <td>PGS</td><td>없음</td><td>베스트앨범</td><td>Level 3</td>
+        <td>PGS</td>
+	<td>없음</td>
+ 	<td>베스트앨범</td>
+  	<td>Level 3</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=java">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>3190</td><td>뱀</td><td>골드 4</td>
+        <td>BOJ</td>
+	<td>3190</td>
+ 	<td>뱀</td>
+  	<td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
     </tr>
+	
 	 <!-- 23.08.30 문제 -->
     <tr style="text-align: center">
 	<td >8주차</td>
         <td>BOJ</td><td>2133</td><td>타일 채우기</td><td>골드 4</td>
         <td><a href="https://www.acmicpc.net/problem/2133">바로가기</a></td>
     </tr>
+    
 	<!-- 23.09.26 문제 -->
     <tr style="text-align: center">
         <td rowspan="3">9주차</td>
@@ -247,9 +256,9 @@ git commit -m "Hello World / 1분"
     <tr style="text-align: center">
         <td>PGS</td>
 	<td>없음</td>
-	<td>정수 삼각형</td>
+	<td>N으로 표현</td>
 	<td>Level 3</td>
-        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">바로가기</a></td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42895">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
         <td>PGS</td>
