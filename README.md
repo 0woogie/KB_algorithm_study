@@ -82,7 +82,7 @@
 * `BOJ_1234.java`
 * 문제출처 작성 통일
 	* BOJ - 백준
-	* SEA - 삼성 SW Expert Acadamy
+	* SWEA - 삼성 SW Expert Acadamy
 	* PGS - 프로그래머스
 
 
