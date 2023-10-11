@@ -29,7 +29,7 @@ class Solution {
  
        
             // dp 리스트로 가능한 숫자 구하기
-            // 연산 결과를 dp[i]에 추가합니다.
+            // 연산 결과를 dp[i]에 추가
             for (int j = 1; j < i; j++) {
                 int k = i - j;
                 for (int num1 : dp.get(j)) {
