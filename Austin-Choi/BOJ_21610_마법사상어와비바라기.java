@@ -59,14 +59,8 @@ public class BOJ_21610_마법사상어와비바라기 {
 		for(int z = 0; z < M; z++) {
 			//1) 모든 구름이 [0] 방향으로 [1]칸 이동한다.
 			for(int i = 0; i < cloudPosCol.size(); i++) {
-				int newPosCol = cloudPosCol.indexOf(i)+(di[cloudCmds[z][0]]*(cloudCmds[z][1]%N));
-				int newPosRow = cloudPosRow.indexOf(i)+(dj[cloudCmds[z][0]]*(cloudCmds[z][1]%N));
-				
-				//N보다 큰 건 %연산으로 해결했으니 0보다 작을때만 예외처리해줌
-				if(newPosCol < 0)
-					newPosCol = N + newPosCol;
-				if(newPosRow < 0)
-					newPosRow = N + newPosRow;
+				int newPosCol = cloudPosCol.indexOf(i)+(di[cloudCmds[z][0]]*(N+cloudCmds[z][1]%N));
+				int newPosRow = cloudPosRow.indexOf(i)+(dj[cloudCmds[z][0]]*(N+cloudCmds[z][1]%N));
 				
 				cloudPosCol.set(i, newPosCol);
 				cloudPosRow.set(i, newPosRow);
