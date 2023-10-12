@@ -74,7 +74,7 @@ public class BOJ_21610_마법사상어와비바라기 {
 		
 			//2) 각 구름에서 비가 내려 구름이 있는 칸의 바구니에 저장된 물의 양이 1 증가한다.
 			for(int i = 0; i < cloudPosCol.size(); i++) {
-				sky[cloudPosCol.indexOf(i)][cloudPosRow.indexOf(i)] += 1;
+				sky[cloudPosCol.get(i)][cloudPosRow.get(i)] += 1;
 			}
 		
 			//3) 구름이 모두 사라진다.
@@ -87,8 +87,8 @@ public class BOJ_21610_마법사상어와비바라기 {
 			//이때는 경계를 넘어가는 칸은 대각선 방향으로 거리가 1인 칸이 아니다.
 			int waterCount = 0;
 			for(int i = 0; i< cloudPosCol.size(); i++) {
-				int pc = cloudPosCol.indexOf(i);
-				int pr = cloudPosRow.indexOf(i);
+				int pc = cloudPosCol.get(i);
+				int pr = cloudPosRow.get(i);
 
 				for(int w = 0; w< di.length; w++) {
 					if(w%2==0)
