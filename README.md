@@ -282,9 +282,9 @@ git commit -m "Hello World / 1분"
     </tr>
     <tr style="text-align: center">
         <td>BOJ</td>
-	<td>14503</td>
-	<td>로봇 청소기</td>
-	<td>골드 5</td>
-        <td><a href="https://www.acmicpc.net/problem/14503">바로가기</a></td>
+	<td>1149</td>
+	<td>RGB거리</td>
+	<td>실버 1</td>
+        <td><a href="https://www.acmicpc.net/problem/1149">바로가기</a></td>
     </tr>
 </table>
