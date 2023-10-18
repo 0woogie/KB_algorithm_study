@@ -38,6 +38,7 @@ public class BOJ_11501_주식 {
 			
 			int answer = 0;
 			//입력배열 마지막 원소를 max라 하고
+			//왜냐면 마지막날에는 팔던지 아무것도 하지 않던지 뿐이라서 
 			int max = arr[N-1];
 			int profit = 0;
 			Stack<Integer> s = new Stack<Integer>();
