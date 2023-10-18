@@ -289,7 +289,7 @@ git commit -m "Hello World / 1분"
     </tr>
     <!-- 23.10.18 문제 -->
     <tr style="text-align: center">
-        <td rowspan="3">11주차</td>
+        <td rowspan="4">11주차</td>
         <td>BOJ</td>
 	<td>20056</td>
 	<td>마법사 상어와 파이어볼</td>
