@@ -14,8 +14,8 @@ public class BOJ_11501 {
 
 		for (int tc = 0; tc < T; tc++) {
 			int N = Integer.parseInt(br.readLine()); // 날의 수
-			int[] stocks = new int[N];
-			int max = 0;
+			int[] stocks = new int[N]; // 날별 주가 저장용
+			int max = 0; // 주가 최댓값 저장
 
 			st = new StringTokenizer(br.readLine(), " ");
 			for (int i = 0; i < N; i++)
