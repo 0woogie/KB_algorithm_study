@@ -342,7 +342,7 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td>
 	<td>19583</td>
 	<td>싸이버개강총회</td>
-	<td>실버 4</td>
+	<td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/19583">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
