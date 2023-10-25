@@ -64,6 +64,18 @@
 	    </a>
 	    <br />
 	</td>
+	<td align="center">
+	    <a href="https://github.com/ezurno">
+	    	<img src="https://avatars.githubusercontent.com/u/108059303?v=4?s=100" width="100px;" alt=""/>
+	    	<br/>
+	    	<sub>
+	    	<b>이준모</b>
+	    	<br/>
+	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
+	        </sub>
+	    </a>
+	    <br />
+	</td>
     </tr>
 </table>
 
@@ -286,5 +298,35 @@ git commit -m "Hello World / 1분"
 	<td>RGB거리</td>
 	<td>실버 1</td>
         <td><a href="https://www.acmicpc.net/problem/1149">바로가기</a></td>
+    </tr>
+    <!-- 23.10.18 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="4">11주차</td>
+        <td>BOJ</td>
+	<td>20056</td>
+	<td>마법사 상어와 파이어볼</td>
+	<td>골드 4</td>
+        <td><a href="https://www.acmicpc.net/problem/20056">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td>
+	<td>16236</td>
+	<td>아기 상어</td>
+	<td>골드 3</td>
+        <td><a href="https://www.acmicpc.net/problem/16236">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td>
+	<td>17298</td>
+	<td>오큰수</td>
+	<td>골드 4</td>
+        <td><a href="https://www.acmicpc.net/problem/17298">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td>
+	<td>11501</td>
+	<td>주식</td>
+	<td>실버 2</td>
+        <td><a href="https://www.acmicpc.net/problem/11501">바로가기</a></td>
     </tr>
 </table>
