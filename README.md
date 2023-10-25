@@ -329,4 +329,27 @@ git commit -m "Hello World / 1분"
 	<td>실버 2</td>
         <td><a href="https://www.acmicpc.net/problem/11501">바로가기</a></td>
     </tr>
+    <!-- 23.10.25 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="3">12주차</td>
+        <td>BOJ</td>
+	<td>10942</td>
+	<td>팰린드롬?</td>
+	<td>골드 4</td>
+        <td><a href="https://www.acmicpc.net/problem/10942">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td>
+	<td>19583</td>
+	<td>싸이버개강총회</td>
+	<td>실버 4</td>
+        <td><a href="https://www.acmicpc.net/problem/19583">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td>
+	<td>17140</td>
+	<td>이차원 배열과 연산</td>
+	<td>골드 4</td>
+        <td><a href="https://www.acmicpc.net/problem/17140">바로가기</a></td>
+    </tr>
 </table>
