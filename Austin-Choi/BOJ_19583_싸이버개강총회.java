@@ -22,7 +22,9 @@ public class BOJ_19583_싸이버개강총회 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		
+
+		//이름 종류만 저장하니까 셋
+		// 스타트 셋, end 셋 저장되있는 이름 count해서 출력하기
 		Set<String> start = new HashSet<String>();
 		Set<String> end = new HashSet<String>();
 		// 0 <= start <= S, E <= end <= Q
