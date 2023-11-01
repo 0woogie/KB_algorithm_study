@@ -370,10 +370,10 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/1941">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>.</td>
-	<td>.</td>
-	<td>.</td>
-	<td>.</td></td>
-        <td><a href=".">바로가기</a></td>
+        <td>BOJ</td>
+	<td>9466</td>
+	<td>텀 프로젝트</td>
+	<td>골드 3</td></td>
+        <td><a href="https://www.acmicpc.net/problem/9466">바로가기</a></td>
     </tr>
 </table>
