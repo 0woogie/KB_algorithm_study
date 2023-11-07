@@ -23,7 +23,8 @@ public class BOJ_12100_2048Easy {
 		// 2개씩 pop해서 더해서 출력용 리스트 만들기
 		// 출력하는 map 싹 비우고 움직이는 방향 좌상단부터 차례대로 넣어주기
 		
-		// 작동하는 2048 만들고 bfs로 각 방향 움직이는거 하나씩 해보면서 최대값 갱신하고 출력
+		// 작동하는 2048 만들고 dfs로 하나하나 해보고
+		// 최대값 갱신시키기
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
