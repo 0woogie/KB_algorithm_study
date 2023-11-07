@@ -14,8 +14,6 @@ public class BOJ_12100_2048Easy {
 	public static final int DOWN = 2;
 	public static final int LEFT = 3;
 	public static int answer;
-//	public static int[] di = {0, 1, 0, -1};
-//	public static int[] dj = {-1, 0, 1, 0};
 	public static int[][] map;
 	//지도 크기
 	public static int N;
@@ -48,7 +46,7 @@ public class BOJ_12100_2048Easy {
 	}
 	public static void dfs(int depth) {
 		if(depth == 5) {
-			answer = getMax(map);
+			findMax();
 			return;
 		}
 		int[][] temp = new int[N][N];
@@ -177,16 +175,9 @@ public class BOJ_12100_2048Easy {
 		}
 		return l;
 	}
-	//출력용 max 구하기
-	// board = map
-	public static int getMax(int[][] board) {
-		int max = -1;
-		for(int i = 0; i<board.length; i++) {
-			for(int j = 0; j<board[0].length; j++) {
-				if(board[i][j]>max)
-					max = board[i][j];
-			}
-		}
-		return max;
-	}
+	public static void findMax() {
+        for(int i = 0; i < N; i++)
+            for(int j = 0; j < N; j++)
+                answer = Math.max(answer, map[i][j]);
+    }
 }
