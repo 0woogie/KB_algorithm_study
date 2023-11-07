@@ -109,7 +109,7 @@ public class BOJ_12100_2048Easy {
 			}
 		}
 		else {
-			result = map[idx];
+			result = map[idx].clone();
 		}
 		return result;
 	}
