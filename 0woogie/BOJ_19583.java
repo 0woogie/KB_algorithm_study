@@ -11,34 +11,33 @@ public class BOJ_19583 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        String S = st.nextToken();
-        String E = st.nextToken();
-        String Q = st.nextToken();
+	        StringTokenizer st = new StringTokenizer(br.readLine());
+	        String S = st.nextToken();
+	        String E = st.nextToken();
+	        String Q = st.nextToken();
 
-        Set<String> before = new HashSet<>(); //°³°­ÃÑÈ¸ ÀÌÀü¿¡ ÀÔÀåÇÑ ÇĞ»ı ´ã´Â Set
-        Set<String> after = new HashSet<>(); //°³°­ÃÑÈ¸ ÀÌÈÄ¿¡ ÅğÀåÇÑ ÇĞ»ı ´ã´Â Set
+	        Set<String> before = new HashSet<>(); //ê°œê°•ì´íšŒ ì´ì „ì— ì…ì¥í•œ í•™ìƒ ë‹´ëŠ” Set
+	        Set<String> after = new HashSet<>(); //ê°œê°•ì´íšŒ ì´í›„ì— í‡´ì¥í•œ í•™ìƒ ë‹´ëŠ” Set
         
-        String str = null;
-        while((str = br.readLine()) != null) { //Á¾Á¾ ½á¸Ô´Â syntax
-            String[] s = str.split(" ");
-            String time = s[0];
-            String name = s[1];
-
-            if(S.compareTo(time) >= 0) {
-                before.add(name);
-            }else if(E.compareTo(time) <= 0 && Q.compareTo(time) >= 0) {
-                after.add(name);
-            }
-        }
-
-        int result = 0;
-        for(String name : before) { //°³°­ÃÑÈ¸ Àü¿¡ ÀÔÀåÇÑ ÇĞ»ıµé¸¸ È®ÀÎÇÏ¸é µÊ
-            if(after.contains(name)) {
-                result += 1;
-            }
-        }
-        System.out.println(result);
-	}
-
+	        String str = null;
+	        while((str = br.readLine()) != null) { //ì¢…ì¢… ì¨ë¨¹ëŠ” syntax
+	            String[] s = str.split(" ");
+	            String time = s[0];
+	            String name = s[1];
+	
+	            if(S.compareTo(time) >= 0) { //ê°œê°•ì´íšŒê°€ ì‹œì‘í•œ ì‹œê°„ ì´ì „ì— ëŒ€í™”ë¥¼ í•œ ì ì´ ìˆëŠ” í•™íšŒì›
+	                before.add(name);
+	            }else if(E.compareTo(time) <= 0 && Q.compareTo(time) >= 0) { //ê°œê°•ì´íšŒê°€ ëë‚˜ê³  ìŠ¤íŠ¸ë¦¬ë°ì´ ëë‚  ë•Œê¹Œì§€ ëŒ€í™”ë¥¼ í•œ ì ì´ ìˆëŠ” í•™íšŒì›
+	                after.add(name);
+	            }
+	        }
+	
+	        int result = 0;
+	        for(String name : before) { //ê°œê°•ì´íšŒ ì „ì— ì…ì¥í•œ í•™ìƒë“¤ë§Œ í™•ì¸í•˜ë©´ ë¨
+	            if(after.contains(name)) {
+	                result += 1;
+	            }
+	        }
+	        System.out.println(result);
+		}
 }
