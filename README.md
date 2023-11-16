@@ -399,4 +399,41 @@ git commit -m "Hello World / 1분"
 	<td>골드 2</td></td>
         <td><a href="https://www.acmicpc.net/problem/1167">바로가기</a></td>
     </tr>
+    <!-- 23.11.15 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="5">15주차</td>
+        <td>PGS</td>
+	<td>없음</td>
+	<td>성격 유형 검사하기</td>
+	<td>Level 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td>
+	<td>없음</td>
+	<td>두 큐 합 같게 만들기</td>
+	<td>Level 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td>
+	<td>없음</td>
+	<td>코딩 테스트 공부하기</td>
+	<td>Level 3</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668">바로가기</a></td>
+    </tr>
+	<tr style="text-align: center">
+        <td>PGS</td>
+	<td>없음</td>
+	<td>등산코스 정하기</td>
+	<td>Level 4</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">바로가기</a></td>
+    </tr>
+	<tr style="text-align: center">
+        <td>PGS</td>
+	<td>없음</td>
+	<td>행렬과 연산</td>
+	<td>Level 5</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118670">바로가기</a></td>
+    </tr>
 </table>
